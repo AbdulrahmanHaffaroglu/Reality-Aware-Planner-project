@@ -33,4 +33,22 @@ i believe that when i learn those i will be able to start coding the project.
     - GROUP BY
 
 - start building the SQL Database
-**Next Task:** Foreign keys, JOIN and GROUP BY
+**Next Task:** Foreign keys, JOIN and GROUP By
+
+---
+
+### Day 2: 20 October 2026
+**what is Done:** 
+- learned how to set foreign keys two connect two tables using a column
+- learned how to use Join to return different tables
+- learned how to use functions like count, sum, avg, concat and combine them with JOINS in practice
+
+**tasks in hand:**
+- learn about:
+    - GROUP BY
+    - Functions
+    - Procedures
+
+- be stronger in the SQL fundamentals
+- start building the Database
+**Next Task:** Finish the rest of the fundamental topics
