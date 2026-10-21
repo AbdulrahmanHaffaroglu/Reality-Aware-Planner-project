@@ -52,3 +52,23 @@ i believe that when i learn those i will be able to start coding the project.
 - be stronger in the SQL fundamentals
 - start building the Database
 **Next Task:** Finish the rest of the fundamental topics
+
+---
+
+### Day 3: 21 October 2026
+**what is Done:**
+- logical operations (AND, OR, NOT)
+- ORDER BY
+- LIMIT and UNIONS
+- INNER JOINS
+- VIEWS
+
+**tasks in hand:**
+- learn about:
+    - how to build functions and procedures in sql
+    - the rest of the fundamentals
+
+- start building the database
+**Next task:** try to finish everything tomorrow to start building
+
+**Note to self:** I know it's not a good look to be still in this phase, but the exams really play a big role in it
