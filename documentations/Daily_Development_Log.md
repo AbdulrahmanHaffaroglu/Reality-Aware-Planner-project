@@ -72,3 +72,23 @@ i believe that when i learn those i will be able to start coding the project.
 **Next task:** try to finish everything tomorrow to start building
 
 **Note to self:** I know it's not a good look to be still in this phase, but the exams really play a big role in it
+
+---
+
+### Day 4: 22 October 2026
+**what is Done:**
+learned about:
+    - INDEXES in SQL
+    - SUBQUERIES
+    - GROUP BY
+    - PROCEDURES
+    - TRIGGERS
+
+**tasks in hand:**
+- build the file structure for the project
+- start building the database
+- start building the interface based on the database
+**Next task:** build the database of the project
+
+PHASE 0 FINISHED HERE
+---------------------
