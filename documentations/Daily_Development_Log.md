@@ -92,3 +92,29 @@ learned about:
 
 PHASE 0 FINISHED HERE
 ---------------------
+
+***
+
+## **Phase 1: Build the database**
+
+in this phase i started working on the project
+
+**Goal:** the goal is to build a working database backend for the project 
+**Astimation:** i believe that this phase will take 5 days
+**Done when:** when the database is complete
+**Next Phase:** start building the UI
+
+***
+
+### Day 5: 23 October 2026
+**what is Done:**
+- made some of the file structure that will be filled in the future
+- started building the database
+- made users, topics and weekly_plans tables
+- started with daily_logs and stopped working on it for today
+
+**tasks in hand:**
+- build the rest of the database
+- make fake data to test with it
+
+**Next task:** build the rest of the tables
