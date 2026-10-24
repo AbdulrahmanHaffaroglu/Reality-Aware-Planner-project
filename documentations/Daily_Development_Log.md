@@ -118,3 +118,17 @@ in this phase i started working on the project
 - make fake data to test with it
 
 **Next task:** build the rest of the tables
+
+---
+
+### Day 6: 24 OCtober 2026
+**what is done:**
+- fixed some bugs in the previous tables
+- finished the rest of daily_logs table and built the log_entries table
+- ran the shema in MySQL Workbench
+
+**tasks in hand:**
+- make mock data for testing the database
+- fill the rest of the files in the file structure
+
+**Next task:** test the built database
