@@ -132,3 +132,19 @@ in this phase i started working on the project
 - fill the rest of the files in the file structure
 
 **Next task:** test the built database
+
+---
+
+### Day 7: 25 October 2026
+**what is done:**
+- the files seed.sql and test_constraint.sql was made to test the code in shema.sql
+- had the code for the two files written based on the constraints in schema.sql
+- schema.sql passed all the tests that was made
+
+**tasks in hand:**
+- start building the core of the project
+- start building the UI
+
+**Next Step:** start building the core of the project
+
+I know today's entry and work wasn't much, but it will be better in the future

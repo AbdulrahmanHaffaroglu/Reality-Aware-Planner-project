@@ -42,7 +42,7 @@ CREATE TABLE IF NOT EXISTS weekly_plans(
         CHECK (0 < planned_hours AND planned_hours < 24 * 7),
 
     CONSTRAINT chk_minimum_hours
-        CHECK (planned_hours < minimum_hours),
+        CHECK (0 <= minimum_hours AND minimum_hours < planned_hours),
 
     CONSTRAINT chk_weekday_monday 
         CHECK (WEEKDAY(week_start) = 0)
@@ -53,7 +53,7 @@ CREATE TABLE IF NOT EXISTS daily_logs(
     user_id INT NOT NULL,
     log_date DATE NOT NULL,
     tag VARCHAR(25),
-    unkown_flag BOOLEAN NOT NULL DEFAULT FALSE,
+    unknown_flag BOOLEAN NOT NULL DEFAULT FALSE,
 
     CONSTRAINT fk_user_id_logs
         FOREIGN KEY(user_id)
